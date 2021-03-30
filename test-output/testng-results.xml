@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-30T16:46:05 IST" name="Default suite" finished-at="2021-03-30T16:46:29 IST" duration-ms="24403">
+    <groups>
+    </groups>
+    <test started-at="2021-03-30T16:46:05 IST" name="Default test" finished-at="2021-03-30T16:46:29 IST" duration-ms="24403">
+      <class name="com.denovo.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.denovo.testcases.LoginPageTest@25fb8912]" started-at="2021-03-30T16:46:05 IST" name="setup" finished-at="2021-03-30T16:46:23 IST" duration-ms="18391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginpageTitle()[pri:1, instance:com.denovo.testcases.LoginPageTest@25fb8912]" started-at="2021-03-30T16:46:23 IST" name="loginpageTitle" finished-at="2021-03-30T16:46:23 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTitle -->
+        <test-method signature="denovologo()[pri:2, instance:com.denovo.testcases.LoginPageTest@25fb8912]" started-at="2021-03-30T16:46:23 IST" name="denovologo" finished-at="2021-03-30T16:46:23 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- denovologo -->
+        <test-method signature="Rememberme()[pri:3, instance:com.denovo.testcases.LoginPageTest@25fb8912]" started-at="2021-03-30T16:46:23 IST" name="Rememberme" finished-at="2021-03-30T16:46:23 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rememberme -->
+        <test-method signature="loginbtn()[pri:4, instance:com.denovo.testcases.LoginPageTest@25fb8912]" started-at="2021-03-30T16:46:23 IST" name="loginbtn" finished-at="2021-03-30T16:46:24 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginbtn -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.denovo.testcases.LoginPageTest@25fb8912]" started-at="2021-03-30T16:46:24 IST" name="teardown" finished-at="2021-03-30T16:46:29 IST" duration-ms="5696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.denovo.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
